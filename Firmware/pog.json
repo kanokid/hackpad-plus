@@ -1,0 +1,165 @@
+{
+    "id": "01KN32PRDMDW1MNQM04AMTST31",
+    "name": "Hackpad+",
+    "manufacturer": "",
+    "description": "",
+    "tags": [],
+    "controller": "",
+    "keyboardType": "normal",
+    "wiringMethod": "matrix",
+    "diodeDirection": "COL2ROW",
+    "rows": 4,
+    "cols": 3,
+    "pins": 0,
+    "rowPins": [
+        "26",
+        "27",
+        "28"
+    ],
+    "colPins": [
+        "29",
+        "6",
+        "7",
+        null
+    ],
+    "directPins": [],
+    "encoders": [
+        {
+            "pad_a": "gp2",
+            "pad_b": "gp1"
+        }
+    ],
+    "layouts": [],
+    "keys": [
+        {
+            "x": 0,
+            "y": 0,
+            "idx": 0
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "idx": 1
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "idx": 2
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "idx": 3
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "idx": 4
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "idx": 5
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "idx": 6
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "idx": 7
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "idx": 8
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "idx": 9
+        }
+    ],
+    "keymap": [
+        [
+            "KC.MACRO(Press(KC.LCTL),Press(KC.C),Release(KC.C),Release(KC.LCTL))",
+            "KC.MACRO(Press(KC.LCTL),Press(KC.V),Release(KC.V),Release(KC.LCTL))",
+            "KC.MACRO(Press(KC.LCTL),Press(KC.S),Release(KC.S),Release(KC.LCTL))",
+            "KC.MPLY",
+            "KC.MACRO(Press(KC.LCTL),Press(KC.Z),Release(KC.Z),Release(KC.LCTL))",
+            "KC.MACRO(Press(KC.LCTL),Press(KC.SPC),Release(KC.SPC),Release(KC.LCTL))",
+            "KC.PSCREEN",
+            "KC.MACRO(Press(KC.LCTL),Press(KC.F),Release(KC.F),Release(KC.LCTL))",
+            "KC.MACRO(Press(KC.LCTL),Press(KC.E),Release(KC.E),Release(KC.LCTL))",
+            "KC.RGB_TOG",
+            "KC.TRNS",
+            "KC.TRNS"
+        ]
+    ],
+    "encoderKeymap": [
+        [
+            [
+                "KC.TRNS",
+                "KC.TRNS"
+            ]
+        ]
+    ],
+    "layers": [
+        {
+            "name": ""
+        }
+    ],
+    "split": false,
+    "splitPinA": "",
+    "splitPinB": "",
+    "splitSide": "left",
+    "vbusPin": "VBUS_SENSE",
+    "splitUsePio": true,
+    "splitFlip": false,
+    "splitUartFlip": false,
+    "coordMap": [
+        [
+            "000",
+            "001",
+            "002",
+            "009"
+        ],
+        [
+            "003",
+            "004",
+            "005"
+        ],
+        [
+            "006",
+            "007",
+            "008"
+        ]
+    ],
+    "pinPrefix": "gp",
+    "coordMapSetup": false,
+    "rgbPin": "board.GP0",
+    "rgbNumLeds": 9,
+    "rgbOptions": {
+        "animationMode": 5,
+        "hueDefault": 0,
+        "satDefault": 255,
+        "valDefault": 255,
+        "animationSpeed": 1,
+        "breatheCenter": 1,
+        "knightEffectLength": 3
+    },
+    "kbFeatures": [
+        "basic",
+        "serial",
+        "oneshot",
+        "tapdance",
+        "holdtap",
+        "mousekeys",
+        "combos",
+        "macros"
+    ],
+    "flashingMode": "automatic",
+    "lastEdited": "2026-03-31 20:01"
+}
