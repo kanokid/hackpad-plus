@@ -7,7 +7,9 @@ This is a hackpad that I made for Blueprint.
 * It uses KMK configured through pog for the firmware
 
 Schematic:
-<img width="488" height="905" alt="Screenshot 2026-03-31 153804" src="https://github.com/user-attachments/assets/30424d9c-a017-49d6-8da7-e8400fef0008" />
+<img width="1761" height="895" alt="Screenshot 2026-03-31 202103" src="https://github.com/user-attachments/assets/584dee9b-7028-4492-8962-7277cf4fec85" />
+
 
 PCB:
-<img width="541" height="955" alt="Screenshot 2026-03-31 153838" src="https://github.com/user-attachments/assets/b86b7a81-c008-4a00-a0a2-53d2cd926f2b" />
+<img width="496" height="315" alt="Screenshot 2026-03-31 153852" src="https://github.com/user-attachments/assets/1b7dd1e9-3758-407c-a81f-ba483de36c5b" />
+
