@@ -11,5 +11,6 @@ Schematic:
 
 
 PCB:
-<img width="496" height="315" alt="Screenshot 2026-03-31 153852" src="https://github.com/user-attachments/assets/1b7dd1e9-3758-407c-a81f-ba483de36c5b" />
+<img width="635" height="742" alt="Screenshot 2026-03-31 " src="https://github.com/user-attachments/assets/59dcbdbe-dae4-4ca1-af26-cf446ba104f7" />
+
 
